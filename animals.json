@@ -1,0 +1,32 @@
+[
+    {
+        "id": "60800924eed02",
+        "name":"Vaquita Porpoise", 
+        "description":"The Vaquita Porpoise, or ‘little cow’ in Spanish, is found in shallow waters along the Gulf of California. Their distinctive (and rather adorable) markings include dark rings around their face, lips and eyes.It is thought that there are less than 30 of these cetaceans left in the wild, making them the most endangered marine species on the planet.Although never directly hunted, their population is in great decline due to accidental entanglement. The Vaquita are frequently caught within fixed fishing nets (gillnets) used by illegal operators in Mexico. Since they cannot surface, the poor animals are unable to breath and drown within minutes.Work is being done to ban gill-net fishing in the area, however it is the illegal operators which are the main cause for the decline of this species. Sadly, the Vaquita was only discovered in 1958 and being the most endangered animal in the ocean, they are perilously close to extinction.Here are some of the ways you can help save the Vaquita Porpoise from extinction.",
+        "img":"./public/img/vaquita-porpoise.jpg"
+    },
+    {
+        "id":"6080093e57507",
+        "name":"Hawksbill Turtle", 
+        "description":"The Hawksbill Turtle is the most critically endangered of all Sea Turtle species. Found within reefs of the Indo-Pacific and central Atlantic, they are easily recognised by their distinctive shell and beak-like jaws. There are a number of reasons why the Hawksbill Turtle is one of the most endangered animals in the ocean.The beautiful marble effect of their stunning carapace (tortoiseshell) have long been desired for fashion, jewellery and accessories. Unfortunately trade is still rife, despite international bans on the shell being sold.Hawksbill Turtle meat and eggs are considered a delicacy in many cultures, and are heavily harvested for consumption. However this can be lethal since the turtles feed on a specific type of coral sponge which contains a toxin which causes kidney disease, liver dysfunction and even death in humans.Largely, the Hawksbill Turtle remains one of the most endangered sea animals because of pollution. Illegal fishing nets, plastic ingestion, coastal development and climate change are all having a detrimental affect making them one of the most endangered ocean species.The good news is, the conservation of sea turtles is now at an all time high so there is hope for this endangered marine species.Read more information here and find out how you can help them.",
+        "img":"./public/img/hawksbill-turtle.jpg"
+    },
+    {
+        "id":"6080095411ac3",
+        "name":"Blue Whale", 
+        "description":"It is hard to believe that the largest animal known to man is one of the most endangered animals in the ocean.During the industrial revolution whaling was big business, and Blue Whales were hunted for their meat and blubber which was used in the production of oil, soap, perfume and cosmetics.Commercial hunting lead the Blue Whale alarmingly close to becoming an extinct marine animal, however in 1966 they were protected by the International Whaling Commission.Although commercial whaling is no longer a threat to Blue Whales, their dwindling population now faces new threats like climate change and pollution, making the Blue Whale one of the oceans most endangered marine species.",
+        "img":"./public/img/blue-whale.jpg"
+    },
+    {
+        "id":"6080095b236ea",
+        "name":"Sea Otter", 
+        "description":"The Sea Otter is one of the smallest endangered ocean species. If you’re hoping to spot one of these cuties in the wild, they are most commonly found in California. Sea Otters play a vital role in our ecosystem by feeding on sea urchins which help keep kelp forests thriving.Unfortunately, the reason Sea Otters are endangered is a very sad one. They have the densest fur in the animal kingdom, which makes a highly desirable pelt for the fur trade.There is now an international ban on commercial hunting, however Sea Otters remain one of the most endangered sea animals because of pollution, oil spills and fishing net entanglement.",
+        "img":"./public/img/sea-otter.jpg"
+    },
+    {
+        "id":"60800960befa2",
+        "name":"Whale Shark", 
+        "description":"The Whale Shark is the largest fish, and indeed the largest shark in the sea. They live in warm tropical waters, and have a huge appetite for plankton!Sadly, these gentle giants are an endangered ocean species due to legal and illegal fishing operations. They are hunted for oil, meat, and even their fins. Shark fin is a highly sought-after delicacy in Asia.The larger the fin, the more valuable they are, hence why Whale Sharks are targeted. This cruel act is referred to as ‘finning’ which is when the fin of a live shark is sliced off and the animal is essentially left to die.Although their exact population is unknown, a lack of sightings has placed the status of the Whale Shark as an endangered animal in a vulnerable situation, unfortunately along with many other types of sharks.",
+        "img":"./public/img/whale-shark.jpg"
+    }
+]
